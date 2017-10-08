@@ -1,3 +1,3 @@
 # hello-world
-Practice repository.
+This is different text than themaster branch.
 This is an edit.
